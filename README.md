@@ -1,4 +1,5 @@
 # recycle
+
 retrofuturistic way to throw files into a trash can
 
 ## usage example
@@ -13,7 +14,9 @@ retrofuturistic way to throw files into a trash can
 and now files 1 2 and 3 are safely in ~/.Trash
 
 
-trashing files this way from the terminal supports `Put Back` functionality in Finder and is much safer than using `rm`
+trashing files this way from the terminal supports `Put Back` functionality in Finder and is much safer than using `rm`.
+
+A pre-built version of the binary can be found in build/Release if you don't want to compile it yourself.
 
 
 start recycling today :cat:
